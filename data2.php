@@ -1,6 +1,6 @@
 <?php
 $a =10;
-for ($i=0; $i <= $a ; $i++) { 
+for ($i=1; $i <= $a ; $i++) { 
     if ($i == 1){
      echo"Aku adalah Data ke-".$i." dan mendapatkan mendali emas<br>";    }
      elseif ($i == 2){
